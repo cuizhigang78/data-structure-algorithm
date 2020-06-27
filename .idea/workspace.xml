@@ -1,40 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c421ef49-9754-433a-8ae5-179a4bd8ee0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/No1_sort/No1_1_time_complexity/TimeComplexity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/No1_sort/No1_2_space_complexity/SpaceComplexity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/No1_sort/SortAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/No2_search/No2_1_sequential_search/SeqSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/No2_search/No2_2_binary_search/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/No2_search/No2_3_insertion_search/InsertionSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/No2_search/SearchAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/DataStructure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No1_sparse_array/SparseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No2_queue/ArrayQueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No2_queue/CircleArrayQueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No2_queue/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_1_singleLinkedList/HeroNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_1_singleLinkedList/SingleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_1_singleLinkedList/SingleLinkedListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_2_doubleLinkedList/DoubleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_2_doubleLinkedList/DoubleLinkedListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_2_doubleLinkedList/HeroNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_3_circleSingleLinkedList/CircleSingleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_3_circleSingleLinkedList/Joseph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_3_circleSingleLinkedList/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No4_stack/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No4_stack/polandNotation/PolandNotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No4_stack/simpleExpress/ArrayStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No4_stack/simpleExpress/ArrayStackDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No4_stack/simpleExpress/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No5_tree/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No5_tree/BinaryTreeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No5_tree/HeroNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No5_tree/Tree.java" afterDir="false" />
-    </list>
+    <list default="true" id="c421ef49-9754-433a-8ae5-179a4bd8ee0a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/No5_tree/BinaryTreeDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+            <state relative-caret-position="147">
+              <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -294,7 +261,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593271161863" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593271261544" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -465,12 +432,12 @@
       <workItem from="1592954940017" duration="1995000" />
       <workItem from="1593009849607" duration="599000" />
       <workItem from="1593046193390" duration="1189000" />
-      <workItem from="1593224309444" duration="12149000" />
+      <workItem from="1593224309444" duration="12372000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125635000" />
+    <option name="totallyTimeSpent" value="125858000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -482,10 +449,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="552" y="266" width="1360" height="671" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.15351813" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15351813" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -494,7 +460,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40037245" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23318872" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.29236498" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -970,8 +936,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/No5_tree/BinaryTreeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+        <state relative-caret-position="147">
+          <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
