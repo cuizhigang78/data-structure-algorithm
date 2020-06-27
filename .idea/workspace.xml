@@ -1,0 +1,1070 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c421ef49-9754-433a-8ae5-179a4bd8ee0a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/No1_sort/No1_1_time_complexity/TimeComplexity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/No1_sort/No1_2_space_complexity/SpaceComplexity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/No1_sort/SortAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/No2_search/No2_1_sequential_search/SeqSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/No2_search/No2_2_binary_search/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/No2_search/No2_3_insertion_search/InsertionSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/No2_search/SearchAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/DataStructure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No1_sparse_array/SparseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No2_queue/ArrayQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No2_queue/CircleArrayQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No2_queue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_1_singleLinkedList/HeroNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_1_singleLinkedList/SingleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_1_singleLinkedList/SingleLinkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_2_doubleLinkedList/DoubleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_2_doubleLinkedList/DoubleLinkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_2_doubleLinkedList/HeroNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_3_circleSingleLinkedList/CircleSingleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_3_circleSingleLinkedList/Joseph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_3_circleSingleLinkedList/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No4_stack/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No4_stack/polandNotation/PolandNotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No4_stack/simpleExpress/ArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No4_stack/simpleExpress/ArrayStackDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No4_stack/simpleExpress/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No5_tree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No5_tree/BinaryTreeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No5_tree/HeroNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/No5_tree/Tree.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/No5_tree/BinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="93" column="38" selection-start-line="93" selection-start-column="38" selection-end-line="93" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/No5_tree/BinaryTreeDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/No5_tree/HeroNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="98">
+              <caret line="140" column="18" selection-start-line="140" selection-start-column="18" selection-end-line="140" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Singleton" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>4</find>
+      <find>slot</find>
+      <find>slotpos</find>
+      <find>Vector3</find>
+      <find>assets</find>
+      <find>ui_icepack_2x3</find>
+      <find>get</find>
+      <find>addByOrder</find>
+      <find>delete</find>
+      <find>shortName</find>
+      <find>System.out.println(stack.pop());</find>
+      <find>char</find>
+      <find>log2</find>
+      <find>*</find>
+      <find>log</find>
+      <find>插入</find>
+      <find>快速排序</find>
+      <find>quick</find>
+      <find>value</find>
+      <find>equals</find>
+      <find>append</find>
+      <find>main.java.</find>
+      <find>main.java.algorithm.</find>
+      <find>main.java.data_structure</find>
+      <find>minOrderSearch</find>
+      <find>postOrderSearch</find>
+      <find>del</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>add</replace>
+      <replace>stack.pop()</replace>
+      <replace>㏒₂</replace>
+      <replace>main.java.</replace>
+      <replace>algorithm.</replace>
+      <replace>data_structure</replace>
+      <replace>delNode</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/DataStructure.java" />
+        <option value="D:/Program Files (x86)/Steam/steamapps/common/dont_starve/mods/workshop-343034529/scripts/prefabs/eardress.lua" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No2_queue/ArraySimulater.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No2_queue/Queue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No2_queue/ArraySimulator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No2_queue/ArrayQueueDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No2_queue/MyCircleArrayQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No2_queue/CircleArrayQueueDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No2_queue/MyCircleArrayQueueDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/LinkedListDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/SingleLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/InterviewQuestions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/SingleLinkedListDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/DoubleLinkedListDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_1_singleLinkedList/Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_2_doubleLinkedList/HeroNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_1_singleLinkedList/HeroNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_2_doubleLinkedList/Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_1_singleLinkedList/SingleLinkedListDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_1_singleLinkedList/SingleLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_2_doubleLinkedList/DoubleLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_2_doubleLinkedList/DoubleLinkedListDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_3_circleSingleLinkedList/Josephu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_3_circleSingleLinkedList/Node.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_3_circleSingleLinkedList/CircleSingleLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_3_circleSingleLinkedList/Joseph.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No4_stack/Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No4_stack/Stack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm/No1_sort_algorithm/SortAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm/No1_sort_algorithm/No1_1_time_complexity/TimeComplexity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm/No1_sort_algorithm/No1_2_space_complexity/SpaceComplexity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm/No2_search/SearchAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm/No2_search/No2_1_sequential_search/SeqSearch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm/No2_search/No2_1_sequential_search/Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm/No2_search/No2_3_insertion_search/InsertionSearch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No4_stack/ArrayStackDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No4_stack/ArrayStack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No4_stack/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm/No1_sort/No1_1_time_complexity/TimeComplexity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm/No1_sort/No1_2_space_complexity/SpaceComplexity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No1_sparse_array/SparseArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm/No2_search/No2_2_binary_search/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No4_stack/polandNotation/PolandNotation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No4_stack/polandNotation/Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No5_tree/Tree.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No5_tree/HeroNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No5_tree/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/No5_tree/BinaryTreeDemo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\repository" />
+        <option name="mavenHome" value="D:/DevolopSoftware/Maven3.3.9" />
+        <option name="userSettingsFile" value="D:\DevolopSoftware\Maven3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="jdk-1.8" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="data-structure-algorithm" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="data-structure-algorithm" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="292" />
+    <option name="y" value="212" />
+    <option name="width" value="1360" />
+    <option name="height" value="671" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="data-structure-algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data-structure-algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data-structure-algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data-structure-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data-structure-algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data-structure-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data-structure-algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data-structure-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data-structure-algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data-structure-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data-structure-algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data-structure-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
+              <item name="No5_tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593271161863" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main.java.algorithm.No2_search.No2_3_insertion_search" />
+      <recent name="main.java.data_structure.No3_linked_list.No3_2_doubleLinkedList" />
+      <recent name="main.java.data_structure.No2_queue" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\git-workspace\data-structure-algorithm\src\main\java\data_structure\No2_queue" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BinaryTreeDemo">
+    <configuration name="ArrayStackDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.data_structure.No4_stack.ArrayStackDemo" />
+      <module name="data-structure-algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.data_structure.No4_stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinaryTreeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.No5_tree.BinaryTreeDemo" />
+      <module name="data-structure-algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_structure.No5_tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.No4_stack.simpleExpress.Calculator" />
+      <module name="data-structure-algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_structure.No4_stack.simpleExpress.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.No4_stack.polandNotation.Demo" />
+      <module name="data-structure-algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_structure.No4_stack.polandNotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolandNotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.No4_stack.polandNotation.PolandNotation" />
+      <module name="data-structure-algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_structure.No4_stack.polandNotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleLinkedListDemo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.data_structure.No3_linked_list.No3_1_singleLinkedList.SingleLinkedListDemo" />
+      <module name="data-structure-algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.data_structure.No3_linked_list.No3_1_singleLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BinaryTreeDemo" />
+        <item itemvalue="Application.Demo (1)" />
+        <item itemvalue="Application.PolandNotation" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.ArrayStackDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c421ef49-9754-433a-8ae5-179a4bd8ee0a" name="Default Changelist" comment="" />
+      <created>1583226895590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583226895590</updated>
+      <workItem from="1583226897193" duration="2876000" />
+      <workItem from="1583287150005" duration="923000" />
+      <workItem from="1583817337145" duration="12395000" />
+      <workItem from="1583899963000" duration="3292000" />
+      <workItem from="1583911643262" duration="4567000" />
+      <workItem from="1583924734184" duration="19000" />
+      <workItem from="1583924755556" duration="3964000" />
+      <workItem from="1583977273676" duration="47000" />
+      <workItem from="1583994610628" duration="4873000" />
+      <workItem from="1584067229470" duration="858000" />
+      <workItem from="1584341035153" duration="5995000" />
+      <workItem from="1584347039743" duration="177000" />
+      <workItem from="1584347237625" duration="2508000" />
+      <workItem from="1584407577433" duration="603000" />
+      <workItem from="1584427471303" duration="14023000" />
+      <workItem from="1584497077659" duration="930000" />
+      <workItem from="1584505672090" duration="4973000" />
+      <workItem from="1584522492735" duration="6243000" />
+      <workItem from="1584579538647" duration="4033000" />
+      <workItem from="1584671363673" duration="1452000" />
+      <workItem from="1584694055974" duration="11615000" />
+      <workItem from="1584859018658" duration="7911000" />
+      <workItem from="1585320718339" duration="68000" />
+      <workItem from="1585612018468" duration="3084000" />
+      <workItem from="1585669039806" duration="2098000" />
+      <workItem from="1585872975002" duration="2578000" />
+      <workItem from="1586304400151" duration="946000" />
+      <workItem from="1586571180916" duration="606000" />
+      <workItem from="1586671036607" duration="1315000" />
+      <workItem from="1586820260279" duration="1011000" />
+      <workItem from="1586821475124" duration="596000" />
+      <workItem from="1587214923591" duration="149000" />
+      <workItem from="1587655523973" duration="216000" />
+      <workItem from="1592229353823" duration="795000" />
+      <workItem from="1592405465974" duration="156000" />
+      <workItem from="1592952905985" duration="1808000" />
+      <workItem from="1592954940017" duration="1995000" />
+      <workItem from="1593009849607" duration="599000" />
+      <workItem from="1593046193390" duration="1189000" />
+      <workItem from="1593224309444" duration="12149000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="125635000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="552" y="266" width="1360" height="671" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.15351813" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40037245" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.29236498" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32960895" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.329718" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="2" weight="0.32995737" />
+      <window_info anchor="right" id="leetcode" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="PlantUML" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Ant Build" order="10" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.15351813" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40037245" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.29236498" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32960895" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.329718" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="2" weight="0.32995737" />
+      <window_info anchor="right" id="leetcode" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="PlantUML" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Ant Build" order="10" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>array[midIndex]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(leftIndex + rightIndex)  * (tarVal - array[leftIndex]) / (array[rightIndex] - array[leftIndex])</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>calculate(n, m, o)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>calculate(m, n, o)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>operateStack</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>numStack</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>express.substring(1,1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>express</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>express.substring(0, 1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_1_singleLinkedList/HeroNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_1_singleLinkedList/SingleLinkedListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_1_singleLinkedList/SingleLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="655">
+          <caret line="52" column="5" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="52" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_2_doubleLinkedList/DoubleLinkedList.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_2_doubleLinkedList/DoubleLinkedListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="55" lean-forward="true" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_3_circleSingleLinkedList/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding>
+            <element signature="e#194#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_3_circleSingleLinkedList/CircleSingleLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_31/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="553" column="13" selection-start-line="553" selection-start-column="13" selection-end-line="553" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_31/src.zip!/javax/script/ScriptEngineManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="214" column="45" lean-forward="true" selection-start-line="214" selection-start-column="45" selection-end-line="214" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/No4_stack/Demo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/No2_search/SearchAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/No2_search/No2_1_sequential_search/Demo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/No2_search/No2_3_insertion_search/InsertionSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="59" column="38" lean-forward="true" selection-start-line="59" selection-start-column="38" selection-end-line="59" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/No1_sort/SortAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/No2_queue/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/No2_queue/CircleArrayQueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="95" column="24" lean-forward="true" selection-start-line="95" selection-start-column="24" selection-end-line="95" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/No2_queue/ArrayQueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="582">
+          <caret line="115" column="28" lean-forward="true" selection-start-line="115" selection-start-column="28" selection-end-line="115" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/No3_linked_list/No3_3_circleSingleLinkedList/Joseph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[7]整数反转.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[9]回文数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="29" column="16" lean-forward="true" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1]两数之和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#0#470#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_31/src.zip!/java/lang/StringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="339" column="15" lean-forward="true" selection-start-line="339" selection-start-column="15" selection-end-line="339" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_31/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="127" column="9" selection-start-line="127" selection-start-column="9" selection-end-line="127" selection-end-column="9" />
+          <folding>
+            <element signature="e#1327#1328#0" expanded="true" />
+            <element signature="e#1369#1370#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_31/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7407">
+          <caret line="974" column="34" lean-forward="true" selection-start-line="974" selection-start-column="34" selection-end-line="974" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_31/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="147" column="25" selection-start-line="147" selection-start-column="19" selection-end-line="147" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_31/src.zip!/java/util/Hashtable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-311">
+          <caret line="792" column="32" selection-start-line="792" selection-start-column="32" selection-end-line="792" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_31/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="111" column="24" selection-start-line="111" selection-start-column="18" selection-end-line="111" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_31/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1011" column="24" selection-start-line="1011" selection-start-column="24" selection-end-line="1011" selection-end-column="24" />
+          <folding>
+            <element signature="e#32334#32335#0" expanded="true" />
+            <element signature="e#32385#32386#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/No1_sort/No1_1_time_complexity/TimeComplexity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1827">
+          <caret line="63" column="13" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/No1_sort/No1_2_space_complexity/SpaceComplexity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/No1_sparse_array/SparseArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/No2_search/No2_1_sequential_search/SeqSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/DataStructure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/No2_search/No2_2_binary_search/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_31/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="66" column="14" lean-forward="true" selection-start-line="66" selection-start-column="14" selection-end-line="66" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_31/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="95" column="23" selection-start-line="95" selection-start-column="23" selection-end-line="95" selection-end-column="23" />
+          <folding>
+            <element signature="e#11695#11696#0" expanded="true" />
+            <element signature="e#11730#11731#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/No4_stack/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/No4_stack/simpleExpress/ArrayStackDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/No4_stack/simpleExpress/ArrayStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/No4_stack/polandNotation/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="13" column="54" lean-forward="true" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/No4_stack/polandNotation/PolandNotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/No4_stack/simpleExpress/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/No5_tree/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_31/src.zip!/java/util/TreeSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="97" column="29" selection-start-line="97" selection-start-column="29" selection-end-line="97" selection-end-column="29" />
+          <folding>
+            <element signature="e#9664#9665#0" expanded="true" />
+            <element signature="e#9710#9711#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_31/src.zip!/java/util/NavigableMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="94" column="17" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.10/lombok-1.18.10-sources.jar!/lombok/ToString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/No5_tree/HeroNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="140" column="18" selection-start-line="140" selection-start-column="18" selection-end-line="140" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/No5_tree/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="93" column="38" selection-start-line="93" selection-start-column="38" selection-end-line="93" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/No5_tree/BinaryTreeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>ibatis</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>data-structure-algorithm</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
