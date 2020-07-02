@@ -1,12 +1,6 @@
 package data_structure.No5_tree;
 
-import lombok.Setter;
-
-import java.util.TreeSet;
-
 /**
- * create by 携山超 on 2020/6/27
- *
  * 二叉树
  *
  * 1. 每个节点最多只能有两个子节点的树，称为二叉树
@@ -24,11 +18,13 @@ import java.util.TreeSet;
  * 输出父节点的顺序，决定了是前序遍历，中序遍历还是后序遍历
  *
  */
-@Setter
 public class BinaryTree {
 
-    private HeroNode root;
+    public HeroNode root;
 
+    /**
+     * 前序遍历
+     */
     public void preOrder() {
         if (this.root != null) {
             this.root.preOrder();
@@ -48,6 +44,9 @@ public class BinaryTree {
         }
     }
 
+    /**
+     * 中序遍历
+     */
     public void midOrder() {
         if (this.root != null) {
             this.root.midOrder();
@@ -67,6 +66,9 @@ public class BinaryTree {
         }
     }
 
+    /**
+     * 后序遍历
+     */
     public void postOrder() {
         if (this.root != null) {
             this.root.postOrder();
@@ -88,7 +90,7 @@ public class BinaryTree {
 
     public void delNode(int no) {
         if (this.root != null) {
-            if (this.root.getNo() == no) {
+            if (this.root.no == no) {
                 this.root = null;
             } else {
                 this.root.delNode(no);

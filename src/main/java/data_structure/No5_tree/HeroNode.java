@@ -1,29 +1,14 @@
 package data_structure.No5_tree;
 
-import lombok.Data;
-import lombok.ToString;
-
-/**
- * create by 携山超 on 2020/6/27
- */
-@Data
 class HeroNode {
-    private int no;
-    private String name;
-    private HeroNode left; // 默认null
-    private HeroNode right; // 默认null
+    public int no;
+    public String name;
+    public HeroNode left; // 默认null
+    public HeroNode right; // 默认null
 
     public HeroNode(int no, String name) {
         this.no = no;
         this.name = name;
-    }
-
-    @Override
-    public String toString() {
-        return "HeroNode{" +
-                "no=" + no +
-                ", name='" + name + '\'' +
-                '}';
     }
 
     // 前序遍历
@@ -155,5 +140,13 @@ class HeroNode {
                 this.right.delNode(no);
             }
         }
+    }
+
+    @Override
+    public String toString() {
+        return "HeroNode{" +
+                "no=" + no +
+                ", name='" + name + '\'' +
+                '}';
     }
 }

@@ -1,8 +1,5 @@
 package data_structure.No5_tree;
 
-import lombok.Data;
-import lombok.ToString;
-
 /**
  * create by 携山超 on 2020/6/27
  */
@@ -17,12 +14,12 @@ public class BinaryTreeDemo {
         HeroNode node4 = new HeroNode(4, "林冲");
         HeroNode node5 = new HeroNode(5, "关胜");
 
-        root.setLeft(node2);
-        root.setRight(node3);
-        node3.setRight(node4);
-        node3.setLeft(node5);
+        root.left = node2;
+        root.right = node3;
+        node3.right = node4;
+        node3.left = node5;
 
-        binaryTree.setRoot(root);
+        binaryTree.root = root;
 
         System.out.println("前序遍历");
         binaryTree.preOrder();  // 1, 2, 3, 5, 4
